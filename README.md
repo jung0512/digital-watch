@@ -10,9 +10,9 @@ html 코드에서 지정한 id를 불러 온다<br>
 버튼을 눌렀을 때 시작되고 멈추는 코드입니다<br>
 go버튼을 눌렀을 때 handleId를 setInterval(getTime, 1000)값을 넣어 시작시킨다<br>
 stop버튼을 눌렀을 때는 handleId를 다시 0으로 초기화 시켜주어 작동을 멈춘다<br>
-![image](https://user-images.githubusercontent.com/102035198/174733130-ae85bfc0-01e7-4380-aecf-8d7590cae398.png)
+![image](https://user-images.githubusercontent.com/102035198/174733130-ae85bfc0-01e7-4380-aecf-8d7590cae398.png)<br>
 text-align: center로 가운데 맞춤을 해준 다음 border를 2px로 테두리를 만들어준다<br>
-![image](https://user-images.githubusercontent.com/102035198/174735309-2dbc6a31-7f15-4e45-b5b5-2c84b2e3f92d.png)
+![image](https://user-images.githubusercontent.com/102035198/174735309-2dbc6a31-7f15-4e45-b5b5-2c84b2e3f92d.png)<br>
 시간이 표시되는것을 h1태그로 만들어 주고<br>
 go,stop버튼을 만들어 주었고<br>
 js파일을 연결시켜주었다<br>
